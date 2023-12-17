@@ -1,7 +1,7 @@
 # Olá, eu sou o Renato!
-Back-end - Java <br>
-Aluno da Oracle Next Education - Back end <br>
+Analista de TI -Júnior <br>
 Curso análisa e desenvolvimento de sistemas pela Unidrummond <br>
+Formado na Oracle Next Education como programador Back end júnior em java <br>
 <hr>
 
 <div style= "display: inline_block">
