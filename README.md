@@ -6,8 +6,7 @@ Formado no programa Oracle Next Education como programador Back end júnior em j
 <div style= "display: inline_block">
   <img alling="center" heigt="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />         
   <img alling="center" heigt="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
-  <img alling="center" heigt="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-plain.svg" />
-          
+  <img alling="center" heigt="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />         
  <hr>
 </div>
 
