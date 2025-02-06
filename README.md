@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Graduado em Análise e Desenvolvimento de Sistemas pela Unidrummond. <br>Formado no programa Oracle Next Education como programador Back end júnior em Java.</h3>
+<h3 align="left">Graduado em Análise e Desenvolvimento de Sistemas pela Unidrummond. <br>Formado no programa Oracle Next Education como programador Back end júnior em Java.</h3>
 
 ###
 
