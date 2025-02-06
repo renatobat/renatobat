@@ -1,13 +1,16 @@
-<h1 align="left">Analista de Sistemas - Pleno</h1>
+<h1 align="center">Analista de Sistemas - Pleno</h1>
 
+###
 
 <h3 align="left">Graduado em Análise e Desenvolvimento de Sistemas pela Unidrummond. <br>Formado no programa Oracle Next Education como programador Back end júnior em Java.</h3>
 
+###
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=renatobat&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=true" height="135" alt="languages graph"  />
 </div>
 
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
