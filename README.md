@@ -1,15 +1,15 @@
-<h2 align="center">Analista de Sistemas - Pleno</h2>
+<h1 align="center">Analista de Sistemas - Pleno</h1>
 
 ###
 
-<p align="center">Graduado em Análise e Desenvolvimento de Sistemas pela Unidrummond. <br>Formado no programa Oracle Next Education como programador Back end júnior em Java.</p>
+<h3 align="center">Graduado em Análise e Desenvolvimento de Sistemas pela Unidrummond. <br>Formado no programa Oracle Next Education como programador Back end júnior em Java.</h3>
 
 ###
 
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=renatobat&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=renatobat&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=true" height="190" alt="languages graph"  />
 </div>
 
 ###
