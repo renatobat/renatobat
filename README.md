@@ -26,13 +26,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
 </div>
 <hr>
-###
-
 <div align="left">
   <a href= "https://www.linkedin.com/in/renatobatis" targt="_blank"><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" target ="_blank"></a>  
  <a href= "mailto:contato.renatobatista13@gmail.com"><img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" target ="_blank"></a>
 </div>
-
+<hr>
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/renatobat/renatobat/output/snake.svg" alt="Snake animation" />
