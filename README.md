@@ -1,6 +1,6 @@
 <h1 align="left">Analista de Sistemas - Pleno</h1>
 
-###
+
 
 <h3 align="left">Graduado em Análise e Desenvolvimento de Sistemas pela Unidrummond. <br>Formado no programa Oracle Next Education como programador Back end júnior em Java.</h3>
 
