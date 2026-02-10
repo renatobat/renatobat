@@ -1,8 +1,8 @@
-<h1 align="left">Analista de Sistemas - Pleno</h1>
+<h1 align="left">Analista de Dados | Sistemas</h1>
 
 ###
 
-<h3 align="left">Graduado em Análise e Desenvolvimento de Sistemas pela Unidrummond. <br>Formado no programa Oracle Next Education como programador Back end júnior em Java.</h3>
+<h3 align="left">Pós Graduando em Data Analytics pela FIAP. <br>Graduado em Análise e Desenvolvimento de Sistemas pela Unidrummond. <br>Formado no programa Oracle Next Education como programador Back end júnior em Java.</h3>
 
 ###
 
